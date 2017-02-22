@@ -22,4 +22,5 @@ Notes:
 
 Service fee is currently not taken into consideration
 
-3. The project is still under development and improvement. More features will be added soon.
+
+
